@@ -1,4 +1,4 @@
-# BLE HID Device
+# ESP32 BLE HID Device
 
 This Arduino project implements a Bluetooth Low Energy (BLE) Human Interface Device (HID). It allows your ESP32 board to function as a Bluetooth input device like Mr. Robot USB Rubber Ducky.
 
