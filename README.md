@@ -14,18 +14,9 @@ This Arduino project implements a Bluetooth Low Energy (BLE) Human Interface Dev
 ## Requirements
 
 ### Hardware
-- ESP32 Board
-  ```
-   https://amzn.to/47p9iie
-   ```
-- Micro USB cable for programming
-  ```
-   https://amzn.to/457DnBF
-   ```
-- Jumper wires for trigger connections
-  ```
-   https://amzn.to/45FinSU
-   ```
+- ESP32 Board: https://amzn.to/47p9iie
+- Micro USB cable for programming: https://amzn.to/457DnBF
+- Jumper wires for trigger connections: https://amzn.to/45FinSU
 Disclosure: I earn small amount from qualifying purchases as an Amazon Associate.
 
 ### Hardware Connections
@@ -37,10 +28,7 @@ Disclosure: I earn small amount from qualifying purchases as an Amazon Associate
 3. When you want to activate a trigger, touch both jumper wires
 
 ### Software
-- Arduino IDE
-```
-   https://www.arduino.cc/en/software/
-   ```
+- Arduino IDE: https://www.arduino.cc/en/software/
 
 ### Arduino IDE Setup
 1. Open Arduino IDE Preferences
